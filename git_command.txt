@@ -36,3 +36,6 @@ git status
   556  ls
   557  history
 git 
+
+
+added new changes
