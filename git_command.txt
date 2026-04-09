@@ -39,3 +39,20 @@ git
 
 
 added new changes
+-------------------
+branches command
+ git branch
+  576  git branch dev
+  577  git branch
+  578  git switch dev
+  579  git status
+  580  git add this_is_from_dev.txt
+  581  git commit -m "add"
+  582  git status
+  583  git switch master
+  584  ls
+  585  git log
+  586  git status
+  587  git push orgin dev
+  588  git push origin dev
+  589  history
