@@ -20,3 +20,19 @@ git status
 git restore testing.py
 git status
 history
+----------------
+
+git status
+  546  git commit -m " new file added"
+  547  git status
+  548  git remote add origin https://github.com/nikhil17-ng/github-for-devops.git
+  549  git remote -v
+  550  git push origin master
+  551  git remote -v
+  552  mkdir git-clone
+  553  ls
+  554  cd git-clone/
+  555  git clone https://github.com/nikhil17-ng/github-for-devops.git
+  556  ls
+  557  history
+git 
