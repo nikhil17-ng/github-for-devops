@@ -1,0 +1,58 @@
+git init
+ls -a
+git status
+git status
+clear
+git status
+git add testing.py
+git status
+git rm --cached testing.py
+git status
+git add testing.py
+git status
+git commit -m "added file"
+git status
+git history
+git status
+rm testing.py
+ls
+git status
+git restore testing.py
+git status
+history
+----------------
+
+git status
+  546  git commit -m " new file added"
+  547  git status
+  548  git remote add origin https://github.com/nikhil17-ng/github-for-devops.git
+  549  git remote -v
+  550  git push origin master
+  551  git remote -v
+  552  mkdir git-clone
+  553  ls
+  554  cd git-clone/
+  555  git clone https://github.com/nikhil17-ng/github-for-devops.git
+  556  ls
+  557  history
+git 
+
+
+added new changes
+-------------------
+branches command
+ git branch
+  576  git branch dev
+  577  git branch
+  578  git switch dev
+  579  git status
+  580  git add this_is_from_dev.txt
+  581  git commit -m "add"
+  582  git status
+  583  git switch master
+  584  ls
+  585  git log
+  586  git status
+  587  git push orgin dev
+  588  git push origin dev
+  589  history
